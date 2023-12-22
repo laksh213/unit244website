@@ -1,0 +1,8 @@
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --green: #008000;
+    --gold: #FF0000;
+    
+    --box-shadow: 0 0.2rem 0.4rem rgb(0 0 0 / 10%);
+}
